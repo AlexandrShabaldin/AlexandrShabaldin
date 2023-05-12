@@ -1,6 +1,5 @@
 <div id="header" align="center">
 Привет, меня зовут Александр Шабалдин 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
 <div id="header" align="center">
