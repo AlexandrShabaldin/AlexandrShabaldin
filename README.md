@@ -1,6 +1,4 @@
-<div id="header" align="center">
 Привет, меня зовут Александр Шабалдин 
-</div>
 
 <div id="header" align="center">
 :hammer_and_wrench: Languages and Tools :
