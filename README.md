@@ -8,5 +8,3 @@ Hi there, I'm Alexandr
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 
-Тест
-<img src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo= НАЗВАНИЕЛОГОТИПА&logoColor=ЦВЕТЛОГОТИПА"/>
